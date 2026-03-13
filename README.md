@@ -32,40 +32,44 @@ ReconXplorer is a powerful, web-based vulnerability scanning platform that autom
 
 ### Dashboards
 <div align="center">
-&nbsp; <img src="images/dashboardpage.png" width="45%" alt="Main Dashboard">
-&nbsp; <img src="images/dashboard-admin.png" width="45%" alt="Admin Dashboard">
+&nbsp; <img src="images/dashboardpage.png" width="100%" alt="Main Dashboard">
 </div>
 <div align="center">
-&nbsp; <img src="images/dashboard(guest-mode).png" width="45%" alt="Guest Default Dashboard">
+&nbsp; <img src="images/dashboard(guest-mode).png" width="100%" alt="Guest Default Dashboard">
+</div>
+<div align="center">
+&nbsp; <img src="images/dashboard-admin.png" width="100%" alt="Admin Dashboard">
 </div>
 
 ### Navigation Menus
 <div align="center">
-&nbsp; <img src="images/navigation (users).png" width="45%" alt="User Navigation">
-&nbsp; <img src="images/navigation (admin).png" width="45%" alt="Admin Navigation">
+&nbsp; <img src="images/navigation (users).png" height="300px" alt="User Navigation">
+&nbsp; <img src="images/navigation (admin).png" height="300px" alt="Admin Navigation">
 </div>
 
 ### Scanning Interface & Core Results
 <div align="center">
-&nbsp; <img src="images/scanpage.png" width="45%" alt="New Scan Configuration">
+&nbsp; <img src="images/scanpage.png" width="100%" alt="New Scan Configuration">
 </div>
 <div align="center">
-&nbsp; <img src="images/active-scan-result.png" width="45%" alt="Active Scan Results">
-&nbsp; <img src="images/passive-scan-result.png" width="45%" alt="Passive Scan Results">
+&nbsp; <img src="images/active-scan-result.png" width="50%" alt="Active Scan Results">
+&nbsp; <img src="images/passive-scan-result.png" width="50%" alt="Passive Scan Results">
 </div>
 
 ### In-Depth Full Scan Details
 <div align="center">
-&nbsp; <img src="images/fullscan1.png" width="45%" alt="Full Scan View 1">
-&nbsp; <img src="images/fullscan2.png" width="45%" alt="Full Scan View 2">
+<img src="images/fullscan1.png" style="width:48%; height:250px; object-fit:contain;" alt="Full Scan View 1">
+<img src="images/fullscan2.png" style="width:48%; height:250px; object-fit:contain;" alt="Full Scan View 2">
 </div>
+
 <div align="center">
-&nbsp; <img src="images/fullscan3.png" width="45%" alt="Full Scan View 3">
-&nbsp; <img src="images/fullscan4.png" width="45%" alt="Full Scan View 4">
+<img src="images/fullscan3.png" style="width:48%; height:250px; object-fit:contain;" alt="Full Scan View 3">
+<img src="images/fullscan4.png" style="width:48%; height:250px; object-fit:contain;" alt="Full Scan View 4">
 </div>
+
 <div align="center">
-&nbsp; <img src="images/fullscan5.png" width="45%" alt="Full Scan View 5">
-&nbsp; <img src="images/fullscan6.png" width="45%" alt="Full Scan View 6">
+<img src="images/fullscan5.png" style="width:48%; height:250px; object-fit:contain;" alt="Full Scan View 5">
+<img src="images/fullscan6.png" style="width:48%; height:250px; object-fit:contain;" alt="Full Scan View 6">
 </div>
 
 ### Reporting
