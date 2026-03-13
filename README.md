@@ -48,9 +48,9 @@ ReconXplorer is a powerful, web-based vulnerability scanning platform that autom
 ### Scanning Interface & Core Results
 <div align="center">
 &nbsp; <img src="images/scanpage.png" width="45%" alt="New Scan Configuration">
-&nbsp; <img src="images/active-scan-result.png" width="45%" alt="Active Scan Results">
 </div>
 <div align="center">
+&nbsp; <img src="images/active-scan-result.png" width="45%" alt="Active Scan Results">
 &nbsp; <img src="images/passive-scan-result.png" width="45%" alt="Passive Scan Results">
 </div>
 
