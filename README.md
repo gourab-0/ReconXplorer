@@ -52,22 +52,23 @@ ReconXplorer is a powerful, web-based vulnerability scanning platform that autom
 &nbsp; <img src="images/scanpage.png" width="100%" alt="New Scan Configuration">
 </div>
 <div align="center">
-&nbsp; <img src="images/active-scan-result.png" width="50%" alt="Active Scan Results">
-&nbsp; <img src="images/passive-scan-result.png" width="50%" alt="Passive Scan Results">
+&nbsp; <img src="images/active-scan-result.png" style="width:48%; height:250px; object-fit:contain;" alt="Active Scan Results">
+&nbsp; <img src="images/passive-scan-result.png" style="width:48%; height:250px; object-fit:contain;" alt="Passive Scan Results">
 </div>
 
 ### In-Depth Full Scan Details
-<div align="center">
+
+<div align="center" style="margin-bottom:15px;">
 <img src="images/fullscan1.png" style="width:48%; height:250px; object-fit:contain;" alt="Full Scan View 1">
 <img src="images/fullscan2.png" style="width:48%; height:250px; object-fit:contain;" alt="Full Scan View 2">
 </div>
 
-<div align="center">
+<div align="center" style="margin-bottom:15px;">
 <img src="images/fullscan3.png" style="width:48%; height:250px; object-fit:contain;" alt="Full Scan View 3">
 <img src="images/fullscan4.png" style="width:48%; height:250px; object-fit:contain;" alt="Full Scan View 4">
 </div>
 
-<div align="center">
+<div align="center" style="margin-bottom:15px;">
 <img src="images/fullscan5.png" style="width:48%; height:250px; object-fit:contain;" alt="Full Scan View 5">
 <img src="images/fullscan6.png" style="width:48%; height:250px; object-fit:contain;" alt="Full Scan View 6">
 </div>
