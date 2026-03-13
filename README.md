@@ -43,8 +43,8 @@ ReconXplorer is a powerful, web-based vulnerability scanning platform that autom
 
 ### Navigation Menus
 <div align="center">
-<img src="images/navigation (users).png" style="width:48%; height:380px; object-fit:contain;" alt="User Navigation">
-<img src="images/navigation (admin).png" style="width:48%; height:380px; object-fit:contain;" alt="Admin Navigation">
+<img src="images/navigation (users).png" style="width:48%; height:400px; object-fit:contain;" alt="User Navigation">
+<img src="images/navigation (admin).png" style="width:48%; height:400px; object-fit:contain;" alt="Admin Navigation">
 </div>
 
 ### Scanning Interface & Core Results
