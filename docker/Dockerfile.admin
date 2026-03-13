@@ -1,0 +1,18 @@
+FROM node:20-alpine
+
+WORKDIR /app
+
+# Install pnpm if needed, or just use npm
+RUN npm install -g pnpm
+
+# Using a standard path for copying (relative to context, which is project root)
+COPY frontend/admin/package.json frontend/admin/pnpm-lock.yaml* ./
+RUN pnpm install
+
+# Copy the rest of the files, excluding what is in .dockerignore
+COPY frontend/admin/ .
+
+EXPOSE 3001
+
+# Run in dev mode on port 3001
+CMD ["pnpm", "dev", "--port", "3001"]
